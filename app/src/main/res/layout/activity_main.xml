@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.xaaolaf.liebaoview.MainActivity">
 
-    <com.xaaolaf.liebaoview.LieBaoView
+    <com.xaaolaf.liebaoview.RoundProgressbar
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
